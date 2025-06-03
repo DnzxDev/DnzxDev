@@ -48,17 +48,6 @@ Sou um desenvolvedor Full-Stack apaixonado por transformar ideias em soluções 
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DnzxDevop&theme=tokyonight&hide_border=false&ring=42e3f5&fire=42e3f5&currStreakLabel=42e3f5" height="180"/>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=DnzxDevop&show_icons=true&hide=issues&theme=tokyonight&border_color=42e3f5&icon_color=42e3f5&title_color=42e3f5&text_color=ffffff" height="180"/>
- 
-</div>
-
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=DnzxDevop&style=flat-square&color=42e3f5" alt="Profile views"/>
   <br />
