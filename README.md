@@ -61,19 +61,6 @@ Sou um desenvolvedor **Full-Stack**, apaixonado por criar soluções modernas, p
 ---
 
 
-## 📊 GitHub Insights
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DnzxDev&show_icons=true&theme=react&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&icon_color=00D4FF&border_color=30363D" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DnzxDev&layout=compact&langs_count=8&theme=react&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&border_color=30363D" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DnzxDev&theme=react&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D4FF&sideLabels=00D4FF&dates=FFFFFF"/>
-</div>
-
----
-
 ## 🏆 Conquistas
 
 <div align="center">
