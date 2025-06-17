@@ -50,17 +50,6 @@ Sou um desenvolvedor **Full-Stack**, apaixonado por criar soluções modernas, p
 
 ---
 
-### 🎮 FiveM & Games
-<div>
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FiveM-F40552?style=for-the-badge&logo=fivem&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ox_lib-FF9500?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/vRP-FF6B6B?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/QBCore-4ECDC4?style=for-the-badge"/>
-</div>
-
----
-
 ### ☁️ Cloud & DevOps
 <div>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
