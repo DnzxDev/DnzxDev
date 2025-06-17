@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11&height=200&section=header&text=DnzxDev&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20FiveM%20Specialist&descAlignY=55&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8&height=200&section=header&text=DnzxDev&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20FiveM%20Specialist&descAlignY=55&descSize=20" width="100%"/>
 </div>
 
 ---
@@ -70,15 +70,6 @@ Sou um desenvolvedor **Full-Stack**, apaixonado por criar soluções modernas, p
 </div>
 
 ---
-
-### 🧰 Ferramentas & Qualidade
-<div>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black"/>
-</div>
 
 
 ## 📊 GitHub Insights
