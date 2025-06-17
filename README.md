@@ -11,7 +11,7 @@
 Sou um desenvolvedor **Full-Stack**, apaixonado por criar soluções modernas, performáticas e seguras. Especialista em **FiveM**, domino o desenvolvimento de scripts e sistemas avançados para servidores RP, além de ter forte atuação no desenvolvimento web.
 
 ### 🔍 Atualmente focado em:
-- 🔥 Desenvolvimento avançado para **FiveM** (Lua, vRPex, ox_lib)
+- 🔥 Desenvolvimento avançado para **FiveM**
 - 🧠 Arquitetura escalável com **NestJS + Next.js**
 - 🛡️ Segurança e performance em APIs e integrações
 
