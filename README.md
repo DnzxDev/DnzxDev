@@ -1,20 +1,14 @@
+# 👋 Olá, eu sou o Dnzx
 
-
----
-
-## 🧠 About Me
-
-I’m a **Full-Stack Developer** with deep expertise in backend architectures and **FiveM scripting**. I design secure, scalable systems — and build tools that **just work**.
-
-- 🔧 FiveM developer for high-performance Fivem servers  
-- 🛡️ Security-first APIs & real-time integrations  
+Sou **Desenvolvedor Full-Stack** com foco em **back-end** e **FiveM**.  
+Crio sistemas **seguros**, **performáticos** e que simplesmente funcionam.
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Tecnologias
 
 ![React](https://img.shields.io/badge/-React-0a0a0a?style=flat&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-0a0a0a?style=flat&logo=next.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-0a0a0a?style=flat&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0a0a0a?style=flat&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind-0a0a0a?style=flat&logo=tailwindcss&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-0a0a0a?style=flat&logo=nestjs&logoColor=white)
@@ -29,3 +23,12 @@ I’m a **Full-Stack Developer** with deep expertise in backend architectures an
 ![Nginx](https://img.shields.io/badge/-Nginx-0a0a0a?style=flat&logo=nginx&logoColor=white)
 ![PM2](https://img.shields.io/badge/-PM2-0a0a0a?style=flat&logo=pm2&logoColor=white)
 
+---
+
+## 🛠️ O que eu faço
+- 🔧 Scripts e sistemas para **FiveM**  
+- 🛡️ **APIs seguras** e escaláveis para alta performance  
+- ⚡ Integrações em tempo real (Discord, pagamentos, OAuth2)
+- 📦 Estruturas de **back-end** com cache, filas e banco de dados otimizados  
+- 🌍 Deploy e monitoramento em **VPS** e **Cloud**  
+- 🖥️ Websites com **React**   
